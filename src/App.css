@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.container {
+.page-container {
   background-color: rgb(53, 191, 241);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   height: 100vh;
@@ -11,6 +11,7 @@
   align-items: center;
   justify-content: center;
 }
+
 
 .login {
   background-color: whitesmoke;
